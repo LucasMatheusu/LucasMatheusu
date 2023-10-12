@@ -1,3 +1,0 @@
-velocidade = float(input('sua velocidade foi km'))
-if velocidade
-    print('voce foi multado'.format(velocidade))
