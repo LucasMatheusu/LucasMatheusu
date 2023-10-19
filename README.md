@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋,  estou aprendendo a linguagem python.
 
 <!--
 **LucasMatheusu/LucasMatheusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
