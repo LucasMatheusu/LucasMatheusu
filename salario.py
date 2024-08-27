@@ -1,0 +1,5 @@
+aumento = float(input('preço do produto? R$'))
+am = aumento + (aumento * 15 / 100)
+parce = aumento / ( aumento * 15 / 100)
+print('seu valor normal {:.1f} esse e o seu nov valor com 15% a mais {:.1f}'.format(aumento, am ))
+print(' o valor a vista {}, parcelado {}'.format(aumento, parce))

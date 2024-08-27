@@ -1,0 +1,5 @@
+nome = str(input('Digite seu nome')).strip()
+print('seu nome com lestras maiusculas {}'.format(nome.upper()))
+print('seu nome com lestras minusculas {}'.format(nome.lower()))
+print('quantas letras seu nome {} sem considerar os epç'.format(len(nome)-nome.count(' ')))
+print('seu nome tem tantas letras {}'.format(nome.find(' ')))
