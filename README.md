@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas! 👋
 
-Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) na UniCesumar e apaixonado por dados, tecnologia e desenvolvimento. Aqui partilho o meu percurso, os meus estudos em SQL, Python e as minhas certificações.
+Formado em Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) na UniCesumar e apaixonado por dados, tecnologia e desenvolvimento. Aqui partilho o meu percurso, os meus estudos em SQL, Python e as minhas certificações.
 
 ---
 
