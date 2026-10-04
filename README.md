@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Lucas! 👋
 
-<!--
-**LucasMatheusu/LucasMatheusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) na UniCesumar e apaixonado por dados, tecnologia e desenvolvimento. Aqui partilho o meu percurso, os meus estudos em SQL, Python e as minhas certificações.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Certificações Extracurriculares
+
+| Certificação | Fornecedor | Período |
+| :--- | :--- | :--- |
+| **Banco de Dados SQL do Zero ao Avançado** | Udemy | Outubro de 2026 |
+
+<details>
+<summary><b>Mostrar detalhes da certificação</b></summary>
+
+* **Banco de Dados SQL do Zero ao Avançado** — Udemy: manipulação e consulta de dados, comandos básicos e avançados (SELECT, WHERE, GROUP BY, JOINs) e projetos práticos.
+
+</details>
+
+---
+
+## 🚀 Próximos Passos
+* 🔄 Aprofundar em consultas complexas e **JOINs** em SQL.
+* 🐍 Transição para Python e **Pandas** para Análise de Dados.
